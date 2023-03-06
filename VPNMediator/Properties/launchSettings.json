@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VPNMediator": {
+      "commandName": "Project",
+      "commandLineArgs": "conf.xml commands.xml"
+    }
+  }
+}
